@@ -1,0 +1,6 @@
+1 Copy the content to your choice of working directory
+2 run make
+3 run --- insmod usbkbd.ko
+4 connect the usb keyboard
+5 run ---- sh redirectkeyboard.sh
+6 press the appropriate keys and verify outputs.

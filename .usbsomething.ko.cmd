@@ -1,0 +1,1 @@
+cmd_/home/sanjay/kbd2/usbsomething.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sanjay/kbd2/usbsomething.ko /home/sanjay/kbd2/usbsomething.o /home/sanjay/kbd2/usbsomething.mod.o
